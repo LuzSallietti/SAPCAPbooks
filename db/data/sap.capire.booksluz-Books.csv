@@ -1,0 +1,6 @@
+ID,title,descr,author_ID,genre_ID,stock,price
+1,El Secreto del Bosque,Una emocionante historia de misterio en el bosque,1,4,15,29.99
+2,La Isla Perdida,Una aventura en una isla misteriosa,2,3,10,19.99
+3,Amor Prohibido,Una historia de romance y deseo,3,5,8,24.99
+4,La Búsqueda del Tesoro,Una emocionante búsqueda del tesoro,4,3,12,21.99
+5,El Misterio del Pasado,Un misterio que se remonta al pasado,5,4,20,34.99
